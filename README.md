@@ -1,2 +1,1 @@
-# reconhecimentoFacial
-Reconhecimento facial com OpenCv
+# Reconhecimento Facial com OpenCv
